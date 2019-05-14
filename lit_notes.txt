@@ -1,0 +1,5 @@
+Full notes are available in Zotero.
+
+Many methods
+ are close, but none is exactly ours, and none seems to do exactly what we want to do. 
+Arian et al seems the most similar, but they optimize over parameter values only, keeping control values fixed.

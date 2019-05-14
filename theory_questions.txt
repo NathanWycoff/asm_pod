@@ -1,0 +1,2 @@
+1) Can we certify nearness to true optimal based on: i) (ignored) ASM singular values, ii) (ignored) POD singular values?
+1) In the case where the objective is the difference between given and desired output, can we say that the solution is always in the AS? If not, can we certify how close?
